@@ -1,0 +1,84 @@
+body {
+    background: #132028;
+    color: #e2e2e2;
+}
+  
+a {
+    color: #2afad0;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
+    color: #99aab5;
+    font-weight: 400;
+    line-height: 1.125;
+}
+
+strong {
+    color: #99aab5;
+    font-weight: 700;
+}
+  
+.bot-name {
+    font: 600 18px "Karla", sans-serif;
+    color: #e2e2e2;
+}
+
+.content {
+    background: #0f4c81 !important;
+}
+
+.btn-like {
+	background-color: #0fb775;
+    border: 0px
+}
+
+#points {
+    color: #fff;
+}
+
+.btn-orange {
+    background: #0fb775;
+    cursor: default;
+}
+
+.bot-description {
+    color: white;
+}
+
+.atag {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background: #e2e2e2;
+    border-radius: 3px 0 0 3px;
+    color: #3b3b3b;
+    display: inline-block;
+    height: 26px;
+    line-height: 26px;
+    padding: 0 10px 0 23px;
+    position: relative;
+    margin-bottom: 3px;
+    text-decoration: none;
+    -webkit-transition: color 0.2s;
+    margin-right: 14px !important;
+}
+
+.botpagebutton {
+    background: #e2e2e2;
+    font: 300 19px "Karla", sans-serif !important;
+        line-height: normal;
+    color: #3b3b3b;
+    display: block;
+    height: 26px;
+    line-height: 26px !important;
+    border-radius: 3px;
+    padding: 0 4px 0 7px;
+    vertical-align: middle !important;
+    text-decoration: none;
+    -webkit-transition: color 0.3s;
+}
