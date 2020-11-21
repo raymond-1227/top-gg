@@ -25,8 +25,9 @@ strong {
     color: #e2e2e2;
 }
 
-.content {
-    background: #0f4c81 !important;
+.longdescription .content{
+	background: #0f4c81 !important;
+    color: #e2e2e2;
 }
 
 .btn-like {
@@ -43,9 +44,7 @@ strong {
     cursor: default;
 }
 
-.bot-description {
-    color: white;
-}
+
 
 .atag {
     -webkit-touch-callout: none;
@@ -81,4 +80,8 @@ strong {
     vertical-align: middle !important;
     text-decoration: none;
     -webkit-transition: color 0.3s;
+}
+
+:root {
+	--light-blue-description: #e2e2e2;
 }
