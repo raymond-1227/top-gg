@@ -1,4 +1,7 @@
 # Discord Bot List CSS
+
+## About
+
 This is an example CSS code for the bot page. For live example, [click here](https://top.gg/bot/619613322903420929) for it.
 
 ## Tutorial
