@@ -39,7 +39,7 @@ Please [click here](https://github.com/hackerman14/bot-codes) for the source cod
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;900&display=swap');
 
 * {
-  font-family: "Monterserrat"
+  font-family: "Montserrat"
 }
 
 .content a {
