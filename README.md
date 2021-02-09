@@ -1,4 +1,4 @@
-# Discord Bot List CSS
+# Top.gg CSS
 
 ## About
 
